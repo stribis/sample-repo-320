@@ -28,3 +28,8 @@ main {
   margin:0 3rem;
   display: flex;
 }
+
+footer.main_footer {
+  display: flex;
+  background-color: white;
+}
